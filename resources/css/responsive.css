@@ -1,0 +1,156 @@
+@media all and (max-width: 980px) {
+    html {
+        font-size: 57.5%;
+    }
+    .header-top {
+        padding: 2rem 1rem 0;
+    }
+    .menu-area {
+        display: none;
+    }
+    .header-area {
+        height: 60vh;
+    }
+    .mobile-menu {
+        display: block;
+        margin: 0 2rem;
+    }
+    .hero-area {
+        top: 33%;
+        width: 80%;
+    }
+    .span_1_of_4 {
+        width: 49.2%;
+        margin-left: 0;
+        margin-bottom: 3rem;
+    }
+    .service-item p {
+        padding: 0px 11.5%;
+    }
+    .single-testimonial {
+        display: block;
+        text-align: center;
+    }
+    .single-testimonial .client-review {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .single-testimonial p {
+        width: 95%;
+        margin: 0 auto;
+    }
+    .single-testimonial .client-img {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .contact-from {
+        width: 100%;
+    }
+    .contact-from input[type="text"], .contact-from input[type="email"], .contact-from textarea {
+        margin-bottom: 1.5rem;
+    }
+    .contact-from .contact-btn {
+        margin: 2rem auto;
+    }
+    .btn {
+        padding: 2rem 4rem;
+    }
+    .footer-section {
+        padding: 2rem 0;
+    }
+    .footer ul li {
+        margin-right: 4rem;
+    }
+}
+@media all and (max-width: 801px) {
+    .single-testimonial p {
+        width: 84%;
+    }
+}
+@media all and (max-width: 768px) {
+    .hero-area h1 {
+        font-size: 3.7rem;
+    }
+    .section-heading h2 {
+        font-size: 3.5rem;
+        padding-bottom: 2rem;
+        letter-spacing: 0.3rem;
+    }
+    .section-heading p {
+        padding-top: 2rem;
+        width: 100%;
+        line-height: 2.7rem;
+    }
+    .services .service-item p {
+        padding: 0px 0rem;
+        width: 100%;
+    }
+    h3 {
+        font-size: 2.4rem;
+        margin-top: 2.4rem;
+        margin-bottom: .7rem;
+    }
+    .single-item p {
+        margin: 2rem 0;
+    }
+    .single-testimonial .client-review {
+        width: 95%;
+    }
+    .single-testimonial p {
+        width: 93%;
+    }
+    .footer ul li {
+        margin-bottom: 1rem;
+    }
+}
+@media all and (max-width: 578px) {
+    .hero-area h1 {
+        font-size: 2.7rem;
+        line-height: 4.5rem;
+        margin-bottom: 3rem;
+    }
+    .section-heading h2 {
+        font-size: 2.5rem;
+        padding-bottom: 1.7rem;
+    }
+    .section-heading p {
+        padding-top: 1.7rem;
+        line-height: 2.4rem;
+    }
+    .section-padding {
+        padding: 4.5rem 0;
+    }
+    .span_1_of_4, .span_1_of_2  {
+        width: 100%;
+    }
+    h3 {
+        margin-top: 2rem;
+        margin-bottom: .5rem;
+    }
+    .single-testimonial .client-review {
+        width: 90%;
+    }
+    .col.span_1_of_2.single-testimonial:last-child {
+        margin-top: 4.5rem;
+    }
+    .filter-menu ul li button {
+        margin-bottom: 1rem;
+    }
+    .contact-from input[type="text"], .contact-from input[type="email"], .contact-from textarea {
+        padding: 1.2rem 2rem;
+        font-size: 1.5rem;
+    }
+    .btn {
+        padding: 1.5rem 2rem;
+    }
+    .footer ul li a {
+        font-size: 2rem;
+    }
+    .footer ul li {
+        margin-right: 3rem;
+    }
+    .services .service-item p {
+        padding: 0 2rem;
+    }
+}
+
